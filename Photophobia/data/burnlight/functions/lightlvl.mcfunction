@@ -1,0 +1,16 @@
+execute if predicate burnlight:level0 run scoreboard players set @s LightLevel 0
+execute if predicate burnlight:level1 run scoreboard players set @s LightLevel 1
+execute if predicate burnlight:level2 run scoreboard players set @s LightLevel 2
+execute if predicate burnlight:level3 run scoreboard players set @s LightLevel 3
+execute if predicate burnlight:level4 run scoreboard players set @s LightLevel 4
+execute if predicate burnlight:level5 run scoreboard players set @s LightLevel 5
+execute if predicate burnlight:level6 run scoreboard players set @s LightLevel 6
+execute if predicate burnlight:level7 run scoreboard players set @s LightLevel 7
+execute if predicate burnlight:level8 run scoreboard players set @s LightLevel 8
+execute if predicate burnlight:level9 run scoreboard players set @s LightLevel 9
+execute if predicate burnlight:level10 run scoreboard players set @s LightLevel 10
+execute if predicate burnlight:level11 run scoreboard players set @s LightLevel 11
+execute if predicate burnlight:level12 run scoreboard players set @s LightLevel 12
+execute if predicate burnlight:level13 run scoreboard players set @s LightLevel 13
+execute if predicate burnlight:level14 run scoreboard players set @s LightLevel 14
+execute if predicate burnlight:level15 run scoreboard players set @s LightLevel 15

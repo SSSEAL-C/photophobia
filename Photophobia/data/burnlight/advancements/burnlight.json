@@ -1,0 +1,26 @@
+{
+    "display": {
+        "title": {
+            "text": "Burn in Daylight",
+            "color": "red",
+            "bold": true
+        },
+        "description": {
+            "text": "by realsovietseal",
+            "color": "white"
+        },
+        "icon": {
+            "item": "minecraft:fire_charge"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "burnlight:root"
+}
