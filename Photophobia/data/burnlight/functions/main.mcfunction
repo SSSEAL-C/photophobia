@@ -7,7 +7,7 @@ execute if score @s LightLevel matches ..12 run scoreboard players set @s inLigh
 
 
 #effect apply
-execute if score @s inLight matches 1 run effect give @s wither 10 1
+execute if score @s inLight matches 1 run effect give @s wither 10 1 true
 execute if score @s inLight matches 1 run scoreboard players set @s hasWither 1
 execute if score @s inLight matches 0 if score @s hasWither matches 1 run effect clear @s wither
 execute if score @s inLight matches 0 if score @s hasWither matches 1 run scoreboard players set @s hasWither 0
